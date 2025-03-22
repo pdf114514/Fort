@@ -1,0 +1,380 @@
+﻿Log file open, 03/22/25 17:23:27
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 8 total threads with 1 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-0
+LogInit: Engine Version: 4.23.1-0+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-0+++UE4+Release-4.23
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 13th Gen Intel(R) Core(TM) i7-13700F, GPU: NVIDIA GeForce RTX 4070 Ti
+LogInit: Compiled (64-bit): Mar 22 2025 15:34:24
+LogInit: Compiled with Visual C++: 19.43.34809.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -Log
+LogInit: Base Directory: C:/Users/User/Documents/Unreal Projects/Fort/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: false
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.03.22-08.23.27:933][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.03.22-08.23.27:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Engine.ini]
+[2025.03.22-08.23.27:934][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.03.22-08.23.27:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Engine.ini]
+[2025.03.22-08.23.27:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Engine.ini]
+[2025.03.22-08.23.27:934][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.03.22-08.23.27:934][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.03.22-08.23.27:935][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.03.22-08.23.27:935][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.03.22-08.23.27:936][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.03.22-08.23.27:936][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.03.22-08.23.27:937][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.03.22-08.23.27:937][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.03.22-08.23.27:943][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.03.22-08.23.27:943][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.03.22-08.23.27:945][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.03.22-08.23.27:945][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.03.22-08.23.27:948][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.03.22-08.23.27:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Engine.ini]
+[2025.03.22-08.23.27:952][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.03.22-08.23.27:960][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.03.22-08.23.27:960][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.03.22-08.23.27:961][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.03.22-08.23.27:961][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.03.22-08.23.27:962][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.03.22-08.23.27:964][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2025.03.22-08.23.27:968][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.03.22-08.23.27:969][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.03.22-08.23.27:971][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.03.22-08.23.27:971][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.03.22-08.23.27:972][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.03.22-08.23.27:972][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.03.22-08.23.27:974][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Engine.ini]
+[2025.03.22-08.23.27:974][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.27:975][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.03.22-08.23.27:975][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.03.22-08.23.27:976][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.27:976][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.03.22-08.23.27:976][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.27:978][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.03.22-08.23.27:978][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.03.22-08.23.27:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.03.22-08.23.27:979][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.03.22-08.23.27:979][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.03.22-08.23.27:979][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.03.22-08.23.27:980][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.03.22-08.23.27:980][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.03.22-08.23.27:980][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.03.22-08.23.27:980][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.03.22-08.23.27:981][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.03.22-08.23.27:981][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.03.22-08.23.27:982][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.03.22-08.23.27:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.03.22-08.23.27:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.03.22-08.23.27:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.03.22-08.23.27:986][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.03.22-08.23.27:987][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.03.22-08.23.27:987][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.27:988][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.03.22-08.23.27:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.03.22-08.23.27:989][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.03.22-08.23.27:989][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.03.22-08.23.27:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.03.22-08.23.27:990][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.03.22-08.23.27:990][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.03.22-08.23.27:991][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.03.22-08.23.27:992][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.03.22-08.23.27:992][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.03.22-08.23.27:993][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.03.22-08.23.27:993][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.03.22-08.23.27:994][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.03.22-08.23.27:994][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.03.22-08.23.27:994][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.03.22-08.23.27:994][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.03.22-08.23.27:994][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.03.22-08.23.27:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.03.22-08.23.27:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.03.22-08.23.27:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.03.22-08.23.27:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.03.22-08.23.27:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.03.22-08.23.27:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.03.22-08.23.27:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.03.22-08.23.27:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.03.22-08.23.27:997][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.03.22-08.23.27:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.03.22-08.23.28:000][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.03.22-08.23.28:000][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.03.22-08.23.28:000][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.03.22-08.23.28:000][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:000][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.03.22-08.23.28:001][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.03.22-08.23.28:001][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.03.22-08.23.28:001][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.03.22-08.23.28:001][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.03.22-08.23.28:001][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.03.22-08.23.28:002][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.03.22-08.23.28:002][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.03.22-08.23.28:002][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:003][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.03.22-08.23.28:003][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.03.22-08.23.28:003][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.03.22-08.23.28:003][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.03.22-08.23.28:004][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.03.22-08.23.28:004][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.03.22-08.23.28:004][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.03.22-08.23.28:004][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.03.22-08.23.28:004][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.03.22-08.23.28:005][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.03.22-08.23.28:005][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2025.03.22-08.23.28:005][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.03.22-08.23.28:006][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.03.22-08.23.28:006][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:006][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.03.22-08.23.28:006][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.03.22-08.23.28:006][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2025.03.22-08.23.28:006][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2025.03.22-08.23.28:008][  0]LogHAL: Display: Platform has ~ 64 GB [68415504384 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.03.22-08.23.28:008][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2025.03.22-08.23.28:009][  0]LogInit: Going up to parent DeviceProfile []
+[2025.03.22-08.23.28:009][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:009][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.03.22-08.23.28:009][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.03.22-08.23.28:010][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:010][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.03.22-08.23.28:010][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:010][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.03.22-08.23.28:011][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.03.22-08.23.28:011][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.03.22-08.23.28:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.03.22-08.23.28:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.03.22-08.23.28:011][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.03.22-08.23.28:011][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.03.22-08.23.28:012][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.03.22-08.23.28:014][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.03.22-08.23.28:014][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.03.22-08.23.28:015][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.03.22-08.23.28:015][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.03.22-08.23.28:015][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.03.22-08.23.28:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.03.22-08.23.28:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.03.22-08.23.28:018][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.03.22-08.23.28:018][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.03.22-08.23.28:019][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.03.22-08.23.28:019][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:020][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.03.22-08.23.28:020][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.03.22-08.23.28:021][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.03.22-08.23.28:021][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.03.22-08.23.28:021][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.03.22-08.23.28:022][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.03.22-08.23.28:022][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.03.22-08.23.28:023][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.03.22-08.23.28:023][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.03.22-08.23.28:023][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.03.22-08.23.28:023][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.03.22-08.23.28:024][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.03.22-08.23.28:024][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.03.22-08.23.28:024][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.03.22-08.23.28:025][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.03.22-08.23.28:025][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.03.22-08.23.28:026][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.03.22-08.23.28:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.03.22-08.23.28:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.03.22-08.23.28:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.03.22-08.23.28:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.03.22-08.23.28:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.03.22-08.23.28:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.03.22-08.23.28:028][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.03.22-08.23.28:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.03.22-08.23.28:031][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.03.22-08.23.28:031][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.03.22-08.23.28:031][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.03.22-08.23.28:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.03.22-08.23.28:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.03.22-08.23.28:032][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:033][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.03.22-08.23.28:033][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.03.22-08.23.28:034][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.03.22-08.23.28:034][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.03.22-08.23.28:034][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.03.22-08.23.28:034][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.03.22-08.23.28:035][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.03.22-08.23.28:035][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.03.22-08.23.28:037][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:037][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.03.22-08.23.28:037][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.03.22-08.23.28:038][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.03.22-08.23.28:038][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.03.22-08.23.28:039][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.03.22-08.23.28:039][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.03.22-08.23.28:039][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.03.22-08.23.28:041][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.03.22-08.23.28:041][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.03.22-08.23.28:041][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.03.22-08.23.28:042][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2025.03.22-08.23.28:042][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.03.22-08.23.28:042][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.03.22-08.23.28:042][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Scalability.ini]
+[2025.03.22-08.23.28:043][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.03.22-08.23.28:043][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.03.22-08.23.28:044][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/Unreal Projects/Fort/Saved/Config/WindowsServer/Engine.ini]
+[2025.03.22-08.23.28:046][  0]LogInit: Computer: DESKTOP-DKFFGJM
+[2025.03.22-08.23.28:047][  0]LogInit: User: User
+[2025.03.22-08.23.28:047][  0]LogInit: CPU Page size=4096, Cores=16
+[2025.03.22-08.23.28:047][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.03.22-08.23.28:047][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2025.03.22-08.23.28:047][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2025.03.22-08.23.28:048][  0]LogMemory: Process Physical Memory: 42.94 MB used, 42.94 MB peak
+[2025.03.22-08.23.28:048][  0]LogMemory: Process Virtual Memory: 56.71 MB used, 56.71 MB peak
+[2025.03.22-08.23.28:048][  0]LogMemory: Physical Memory: 30257.77 MB used,  34988.34 MB free, 65246.11 MB total
+[2025.03.22-08.23.28:048][  0]LogMemory: Virtual Memory: 4363.84 MB used,  134213368.00 MB free, 134217728.00 MB total
+[2025.03.22-08.23.28:093][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2025.03.22-08.23.28:112][  0]LogInit: Using OS detected language (ja-JP).
+[2025.03.22-08.23.28:112][  0]LogInit: Using OS detected locale (ja-JP).
+[2025.03.22-08.23.28:113][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2025.03.22-08.23.28:116][  0]LogInit: Using OS detected language (ja-JP).
+[2025.03.22-08.23.28:117][  0]LogInit: Using OS detected locale (ja-JP).
+[2025.03.22-08.23.28:117][  0]LogTextLocalizationManager: No localization for 'ja-JP' exists, so 'en' will be used for the language.
+[2025.03.22-08.23.28:118][  0]LogTextLocalizationManager: No localization for 'ja-JP' exists, so 'en' will be used for the locale.
+[2025.03.22-08.23.28:118][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2025.03.22-08.23.28:118][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2025.03.22-08.23.28:150][  0]LogStreaming: Display: Flushing async loaders.
+[2025.03.22-08.23.28:150][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.000022 seconds
+[2025.03.22-08.23.28:151][  0]LogLinker: Warning: Unable to load package (D:/UserData/Documents/Github/UnrealEngine/Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset). Package contains EditorOnly data which is not supported by the current build.
+[2025.03.22-08.23.28:152][  0]LogLinker: Warning: Unable to load package (D:/UserData/Documents/Github/UnrealEngine/Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset). Package contains EditorOnly data which is not supported by the current build.
+[2025.03.22-08.23.28:153][  0]LogUObjectGlobals: Warning: Failed to find object 'AnimCurveCompressionSettings None./Engine/Animation/DefaultAnimCurveCompressionSettings'
+[2025.03.22-08.23.28:153][  0]LogWindows: Windows GetLastError: この操作を正しく終了しました。 (0)
+[2025.03.22-08.23.28:683][  0]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2025.03.22-08.23.28:684][  0]LogWindows: Warning: URL: D:/UserData/Documents/Github/UnrealEngine/Engine/Binaries/Win64/CrashReportClient.exe "C:/Users/User/Documents/Unreal Projects/Fort/Saved/Crashes/UE4CC-Windows-E99B18CA48F9CC37FF0BBBB972D19706_0000" -Unattended -nullrhi -AppName=UE4-Fort -CrashGUID=UE4CC-Windows-E99B18CA48F9CC37FF0BBBB972D19706_0000 -DebugSymbols=D:\UserData\Documents\Github\UnrealEngine\Engine\Intermediate\Symbols
+[2025.03.22-08.23.28:685][  0]LogWindows: Error: === Critical error: ===
+[2025.03.22-08.23.28:686][  0]LogWindows: Error: 
+[2025.03.22-08.23.28:686][  0]LogWindows: Error: Fatal error: [File:Unknown] [Line: 2043] 
+[2025.03.22-08.23.28:686][  0]LogWindows: Error: Couldn't find default curve compression settings under '[Animation.DefaultObjectSettings]'
+[2025.03.22-08.23.28:688][  0]LogWindows: Error: 
+[2025.03.22-08.23.28:688][  0]LogWindows: Error: 
+[2025.03.22-08.23.28:689][  0]LogWindows: Error: [Callstack] 0x00007ffaca03ffbc KERNELBASE.dll!UnknownFunction []
+[2025.03.22-08.23.28:689][  0]LogWindows: Error: [Callstack] 0x00007ff68bc6ff39 Fort-Win64-Shipping.exe!ReportAssert() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Core\Private\Windows\WindowsPlatformCrashContext.cpp:582]
+[2025.03.22-08.23.28:690][  0]LogWindows: Error: [Callstack] 0x00007ff68bc718ce Fort-Win64-Shipping.exe!FWindowsErrorOutputDevice::Serialize() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Core\Private\Windows\WindowsErrorOutputDevice.cpp:78]
+[2025.03.22-08.23.28:691][  0]LogWindows: Error: [Callstack] 0x00007ff68bc3cd2b Fort-Win64-Shipping.exe!FOutputDevice::LogfImpl() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Core\Private\Misc\OutputDevice.cpp:71]
+[2025.03.22-08.23.28:691][  0]LogWindows: Error: [Callstack] 0x00007ff68bbebb1c Fort-Win64-Shipping.exe!AssertFailedImplV() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Core\Private\Misc\AssertionMacros.cpp:101]
+[2025.03.22-08.23.28:691][  0]LogWindows: Error: [Callstack] 0x00007ff68bbeb8f8 Fort-Win64-Shipping.exe!FDebug::AssertFailed() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Core\Private\Misc\AssertionMacros.cpp:455]
+[2025.03.22-08.23.28:692][  0]LogWindows: Error: [Callstack] 0x00007ff68c7dfb3f Fort-Win64-Shipping.exe!FAnimationUtils::GetDefaultAnimationCurveCompressionSettings() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Engine\Private\Animation\AnimationUtils.cpp:2043]
+[2025.03.22-08.23.28:693][  0]LogWindows: Error: [Callstack] 0x00007ff68c80c1a1 Fort-Win64-Shipping.exe!UAnimSequence::UAnimSequence() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Engine\Private\Animation\AnimSequence.cpp:553]
+[2025.03.22-08.23.28:696][  0]LogWindows: Error: [Callstack] 0x00007ff68bce0171 Fort-Win64-Shipping.exe!UClass::CreateDefaultObject() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:3084]
+[2025.03.22-08.23.28:699][  0]LogWindows: Error: [Callstack] 0x00007ff68be3c4ca Fort-Win64-Shipping.exe!UObjectLoadAllCompiledInDefaultProperties() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectBase.cpp:914]
+[2025.03.22-08.23.28:700][  0]LogWindows: Error: [Callstack] 0x00007ff68be30de4 Fort-Win64-Shipping.exe!ProcessNewlyLoadedUObjects() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectBase.cpp:1012]
+[2025.03.22-08.23.28:700][  0]LogWindows: Error: [Callstack] 0x00007ff68b92247f Fort-Win64-Shipping.exe!FEngineLoop::PreInit() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:2559]
+[2025.03.22-08.23.28:701][  0]LogWindows: Error: [Callstack] 0x00007ff68b91d695 Fort-Win64-Shipping.exe!GuardedMain() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Launch\Private\Launch.cpp:131]
+[2025.03.22-08.23.28:701][  0]LogWindows: Error: [Callstack] 0x00007ff68b91d8ea Fort-Win64-Shipping.exe!GuardedMainWrapper() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2025.03.22-08.23.28:701][  0]LogWindows: Error: [Callstack] 0x00007ff68b9262cb Fort-Win64-Shipping.exe!WinMain() [D:\UserData\Documents\Github\UnrealEngine\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:279]
+[2025.03.22-08.23.28:702][  0]LogWindows: Error: [Callstack] 0x00007ff68d67aa86 Fort-Win64-Shipping.exe!__scrt_common_main_seh() [D:\a\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2025.03.22-08.23.28:702][  0]LogWindows: Error: [Callstack] 0x00007ffacb36259d KERNEL32.DLL!UnknownFunction []
+[2025.03.22-08.23.28:703][  0]LogWindows: Error: [Callstack] 0x00007ffaccbcaf38 ntdll.dll!UnknownFunction []
+[2025.03.22-08.23.28:703][  0]LogWindows: Error: 
+[2025.03.22-08.23.28:706][  0]LogExit: Executing StaticShutdownAfterError
+[2025.03.22-08.23.28:708][  0]LogWindows: FPlatformMisc::RequestExit(1)
+[2025.03.22-08.23.28:718][  0]Log file closed, 03/22/25 17:23:28
