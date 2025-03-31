@@ -1,0 +1,1 @@
+D:\UserData\Documents\Github\UnrealEngine\Engine\Build\BatchFiles\RunUAT.bat BuildCookRun -project="C:\Users\User\Documents\Unreal Projects\Fort\Fort.uproject" -noP4 -platform=Win64 -serverconfig=Development -stage -pak -noclient -NoEditor -FullRecook -NoCompileEditor -CookOnTheFly

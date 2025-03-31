@@ -13,7 +13,7 @@ public class Fort : ModuleRules
         PublicDependencyModuleNames.AddRange(new string[] {
             "Core",
             "CoreUObject",
-            "Engine"
+            "Engine", "InputCore",
             // "Launch", "Projects", "Sockets", "Networking", "OnlineSubsystem", "OnlineSubsystemUtils"
         });
 

@@ -3,11 +3,11 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class FortTarget : TargetRules
+public class FortEditorTarget : TargetRules
 {
-    public FortTarget(TargetInfo Target) : base(Target)
+    public FortEditorTarget(TargetInfo Target) : base(Target)
     {
-        Type = TargetType.Game;
+        Type = TargetType.Editor;
         LinkType = TargetLinkType.Monolithic;
         // BuildEnvironment = TargetBuildEnvironment.Shared;
 
